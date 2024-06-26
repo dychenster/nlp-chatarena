@@ -1,4 +1,4 @@
-# Natural Langauge Processing with Chatbot Arena
+# Natural Language Processing with Chatbot Arena
 
 Data source: https://huggingface.co/datasets/lmsys/chatbot_arena_conversations
 
